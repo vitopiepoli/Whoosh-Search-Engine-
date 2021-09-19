@@ -16,3 +16,5 @@ Cv2
 Fpdf 
 Xlsxwriter
 
+For more information about the indexing functions:
+https://whoosh.readthedocs.io/en/latest/index.html
